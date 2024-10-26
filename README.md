@@ -6,6 +6,8 @@ The Learn Of Python
 
 记录学习python的过程  
 
+安装python教程：[点击链接](https://github.com/Seansean1257/-python-)
+
 目标：利用python画出FPS游戏敌人的方框  
 
 原理：利用python的pymen读取游戏内存数据然后通过tkinter的canvas来实现画出敌人方框
