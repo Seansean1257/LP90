@@ -9,6 +9,7 @@ The learn of python   Chinese Version --记录学习python的过程
 注意：
 1、需要懂一些python的基础，比如tkinter库的使用等 
 
+
 2、需要懂得矩阵，例如fps游戏的矩阵是什么
 
 3、需要会使用cheat engine（俗称ce），如何根据需要找的数据判断出数据类型，比如血量一般选择4字节，坐标一般选择浮点数
