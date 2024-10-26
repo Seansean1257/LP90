@@ -6,6 +6,10 @@ The learn of python   Chinese Version --记录学习python的过程
 原理：利用python的pymen读取游戏内存数据然后通过tkinter的canvas来实现画出敌人方框
 
 
+
+
+
+
 注意：
 1、需要懂一些python的基础，比如tkinter库的使用等 
 
