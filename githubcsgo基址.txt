@@ -1,0 +1,26 @@
+csgo一般是本地客户端与服务器端两个基地址
+我多数用服务器端的
+[client.dll+00212B60]+190        矩阵头
+
+[ server.dll+00A7E714]+230       本人HP
+[server.dll+00A7E714]+2E4         坐标Z
+[server.dll+00A7E714]+2E0         坐标Y
+[server.dll+00A7E714]+2DC        坐标X
+
+另外9个人包含队友与敌人的 相差18（16进制）
+对象 1"server.dll"+00A7E72C
+对象 2"server.dll"+00A7E744
+对象3"server.dll"+00A7E75C
+对象4  server.dll   +00A7E774
+对象5"server.dll"+00A7E78C
+对象6"server.dll"+00A7E7A4
+对象7"server.dll"+00A7E7BC
+对象8"server.dll"+00A7E7D4
+对象9"server.dll"+00A7E7EC
+
+同理在上面的基础
++230     是HP
++2E4      是坐标Z
++2E0      是坐标Y
++2DC       是坐标X
++318     是阵容 2为匪家 3为警察
