@@ -1,4 +1,4 @@
-# The-Learn-Of-Python
+# The-Learn-Of-Python(THE EARLY OF CSGO MENU)
 The Learn Of Python   
 
 -----------------------------Chinese Version -------------------------------------------------------------------------------------------------------------
